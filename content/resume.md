@@ -1,10 +1,9 @@
----
-title: "Resume"
-date: 2017-08-26T18:38:55-07:00
-draft: false
----
++++
+draft = false
+description = "A brief summary of my employment."
++++
 
-## <p style="text-align: center;"> [Download PDF](/files/resume.pdf) </p> ##
+## <p style="text-align: center;"> [Download Full Résumé](/files/resume.pdf) </p> ##
 
 ### Duo Security - *Manager of Duo Labs* ###
 Managed distrbiuted team of 6 security research engineers.

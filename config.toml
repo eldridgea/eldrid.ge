@@ -1,5 +1,5 @@
 baseurl = "https://upbeat-leakey-ec77d7.netlify.com"
-title = "eldridge"
+title = "Eldridge"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -18,7 +18,7 @@ pygmentscodefencesguesssyntax = true
     keywords = "blog,developer,personal,engineer,security,infosec"
     avatarurl = "img/eldridge_alexander.jpg"
 
-    favicon_32 = "/img/favicon-32x32.png"
+    favicon_32 = "favicon.ico"
     favicon_16 = "/img/favicon-16x16.png"
 
     footercontent = "© 2019 - Eldridge Alexander"
@@ -46,9 +46,17 @@ pygmentscodefencesguesssyntax = true
 # Menu links
 [[menu.main]]
     name = "Blog"
-    weight = 1
+    weight = 2
     url  = "https://blog.eldrid.ge"
 [[menu.main]]
-    name = "Resume"
-    weight = 2
+    name = "Portfolio"
+    weight = 3
+    url  = "/portfolio"
+[[menu.main]]
+    name = "Résumé"
+    weight = 4
     url = "/resume/"
+[[menu.main]]
+    name = "About Me"
+    weight = 5
+    url  = "/about/"
