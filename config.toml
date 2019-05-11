@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com"
+baseurl = "https://upbeat-leakey-ec77d7.netlify.com"
 title = "eldridge"
 theme = "hugo-coder"
 languagecode = "en"
@@ -21,10 +21,10 @@ pygmentscodefencesguesssyntax = true
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "Footer"
+    footercontent = "© 2019 - Eldridge Alexander"
 
-    hidecredits = false
-    hidecopyright = false
+    hidecredits = true
+    hidecopyright = true
 
     rtl = false
 
