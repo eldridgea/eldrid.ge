@@ -23,7 +23,7 @@ pygmentscodefencesguesssyntax = true
 
     footercontent = "© 2019 - Eldridge Alexander"
 
-    hidecredits = true
+    hidecredits = false
     hidecopyright = true
 
     rtl = false
