@@ -6,11 +6,11 @@ description = "A brief summary of my employment."
 ## <p style="text-align: center;"> [Download Full Résumé](/files/resume.pdf) </p> ##
 
 ### Duo Security - *Manager of Duo Labs* ###
-Managed distrbiuted team of 6 security research engineers.
-Guided research and protoype development, and solcialzed finsdings with the company at large.
+Managed distributed team of 6 security research engineers.
+Guided research and prototype development, and socialized findings with the company at large.
 
 ### Cloudflare - *IT Infrastructure Manager* ###
-Led distrbuted team of 7 to support the company globally, and deploy IT technologies.
+Led distributed team of 7 to support the company globally, and deploy IT technologies.
 Automated repetitive tasks. Supported Windows, Mac, Linux, iOS, Android, and internal tools.
 Improved internal processes and tools.
 

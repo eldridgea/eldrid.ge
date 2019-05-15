@@ -32,7 +32,7 @@ public education.
 
 
 ### [TLJ Consulting Group](https://web.archive.org/web/20141218074640/http://tljconsultinggroup.com/) ###
-A site designed for the the TLJ Consulting Group, with an ecommerce componenet and focus on ease of
+A site designed for the the TLJ Consulting Group, with an ecommerce component and focus on ease of
 
 ### [Four. Evv. Arr.](https://soundcloud.com/eldridgea/four-evv-arr) ###
 A dramatic voiceover reading of the short story “Four. Evv. Arr.”
