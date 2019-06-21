@@ -1,3 +1,6 @@
+### [Malicious Devices on Hostile Networks at Home](https://blog.eldrid.ge/2019/05/04/thotcon-malicious-devices/) ###
+A talk covering the increased risk with IoT and 5G and how Zero Trust principles can combat this.
+
 ### [Usability Is Security: Part 2](https://duo.com/blog/usability-is-security-the-future) ###
 A Duo blog post looking at the future of authentication and authorization.
 
