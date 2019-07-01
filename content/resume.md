@@ -3,7 +3,7 @@ draft = false
 description = "A brief summary of my employment."
 +++
 
-<h1>Resume</h1>
+<center><h1>Resume</h1></center>
 
 ## <p style="text-align: center;"> [Download Full Résumé](/files/resume.pdf) </p> ##
 
