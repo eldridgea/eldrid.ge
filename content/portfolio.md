@@ -1,3 +1,8 @@
++++
+draft = false
+description = "A portfolio of ksome of my work."
++++
+
 <h1>Portfolio</h1>
 
 ### [Malicious Devices on Hostile Networks at Home](https://blog.eldrid.ge/2019/05/04/thotcon-malicious-devices/) ###
