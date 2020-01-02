@@ -1,0 +1,31 @@
+<section class="container centered">
+  <div class="about">
+    {{ with .Site.Params.avatarurl }}
+      <div class="avatar"><img src="{{ . | relURL }}" alt="avatar"></div>
+    {{ end }}
+    <h1>{{ .Site.Params.author }}</h1>
+    <h2>{{ .Site.Params.info }}</h2>
+    {{ with .Site.Params.social }}
+    <ul>
+      {{ range sort .}}
+        {{ if .icon }}
+          <li>
+            <a href="{{ .url }}" aria-label="{{ .name }}">
+              <i class="{{ .icon }}" aria-hidden="true"></i>
+            </a>
+          </li>
+        {{ else }}
+          <li>
+            <a href="{{ .url }}" aria-label="{{ .name }}">{{ .name }}</a>
+          </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+    {{ end }}
+  </div>
+  <div>
+    I am currently a manager of Duo Labs at Duo Security. Previously, I was the IT Infrastructure Manager at Cloudflare, a Corporate Operations Engineer at Google, and owned and operated EZap Technology, an Internet services and consulting company. I have a variety of interests including technology, web design, video production, magic, music, graphic design, and more.
+
+    This portfolio showcases some of my recent work. I have also published my résumé for perusal. I am currently available for both consulting and creative projects.
+  </div>
+</section>
