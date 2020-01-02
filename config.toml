@@ -21,7 +21,7 @@ pygmentscodefencesguesssyntax = true
     favicon_32 = "favicon.ico"
     favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "© 2019 - Eldridge Alexander"
+    footercontent = "© Eldridge Alexander"
 
     hidecredits = true
     hidecopyright = true
