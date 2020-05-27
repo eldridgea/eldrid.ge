@@ -5,8 +5,11 @@ description = "A portfolio of ksome of my work."
 
 <center><h1>Portfolio</h1></center>
 
+### [Needing the DoH: The Ongoing Encryption and Centralization of DNS](https://www.blackhat.com/us-20/briefings/schedule/#needing-the-doh-the-ongoing-encryption-and-centralization-of-dns-20458) ###
+A talk for [Black Hat](https://blackhat.com/) USA 2020 covering the improvements and concerns around encrypting DNS, the centralization of DNS providers, and the tension between consumer and enterprise needs.
+
 ### [Malicious Devices on Hostile Networks at Home](https://blog.eldrid.ge/2019/05/04/thotcon-malicious-devices/) ###
-A talk covering the increased risk with IoT and 5G and how Zero Trust principles can combat this.
+A talk for [THOTCON](https://www.thotcon.org/) covering the increased risk with IoT and 5G and how Zero Trust principles can combat this.
 
 ### [Usability Is Security: Part 2](https://duo.com/blog/usability-is-security-the-future) ###
 A Duo blog post looking at the future of authentication and authorization.
