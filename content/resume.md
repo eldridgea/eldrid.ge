@@ -7,6 +7,9 @@ description = "A brief summary of my employment."
 
 ## <p style="text-align: center;"> [Download Full Résumé](/files/resume.pdf) </p> ##
 
+### Kong - *Information Security Manager* ###
+Working to make security simple, accessible, and effective.
+
 ### Duo Security - *Manager of Duo Labs* ###
 Managed distributed team of 6 security research engineers.
 Guided research and prototype development, and socialized findings with the company at large.
