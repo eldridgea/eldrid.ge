@@ -56,3 +56,7 @@ pygmentscodefencesguesssyntax = true
     name = "Résumé"
     weight = 4
     url = "/resume/"
+ 
+[module]
+  [[module.imports]]
+    path = "github.com/luizdepra/hugo-coder"
