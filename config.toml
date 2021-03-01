@@ -13,7 +13,7 @@ pygmentscodefencesguesssyntax = true
 
 [params]
     author = "Eldridge Alexander"
-    info = "Information Security Research"
+    info = "Information Security"
     description = "Eldridge's personal website"
     keywords = "blog,developer,personal,engineer,security,infosec"
     avatarurl = "img/eldridge_alexander.jpg"
