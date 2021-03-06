@@ -8,7 +8,7 @@ description = "A portfolio of ksome of my work."
 ### [Identity Services for Passwordless Authentication](https://patents.google.com/patent/US20200403993A1) ###
 A patent for a passwordless service allowing customers to have multi-user and RBAC to be used on services that don't support it but support WebAuthn.
 
-### [Needing the DoH: The Ongoing Encryption and Centralization of DNS](https://www.blackhat.com/us-20/briefings/schedule/#needing-the-doh-the-ongoing-encryption-and-centralization-of-dns-20458) ###
+### [Needing the DoH: The Ongoing Encryption and Centralization of DNS](https://www.youtube.com/watch?v=XCnE2o2pfxs) ###
 A talk for [Black Hat](https://blackhat.com/) USA 2020 covering the improvements and concerns around encrypting DNS, the centralization of DNS providers, and the tension between consumer and enterprise needs.
 
 ### [Malicious Devices on Hostile Networks at Home](https://blog.eldrid.ge/2019/05/04/thotcon-malicious-devices/) ###
