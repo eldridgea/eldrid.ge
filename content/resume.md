@@ -7,6 +7,9 @@ description = "A brief summary of my employment."
 
 ## <p style="text-align: center;"> [Download Full Résumé](/files/resume.pdf) </p> ##
 
+### Eldridge Alexander Consulting - *Owner, Information Security Consultant* ###
+Working with business clients to ensure good securtity posture across all organizational systems.
+
 ### Kong - *Information Security Manager* ###
 Working to make security simple, accessible, and effective.
 
