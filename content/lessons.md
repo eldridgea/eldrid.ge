@@ -27,11 +27,11 @@ description = "A brief summary of my employment."
 
 1. Similarly with financial health, spend less than you earn, and invest savings in a total market fund from Vanguard or Fidelity, and you're ahead of 75% of folks. 
 
-1. Sometimes investing means spending money. If you need to get that degree get it, if you need to see the doctor go see them, if you need that exerciese bike get it.
+1. Sometimes investing means spending money. If you need to get that degree get it, if you need to see the doctor go see them, if you need that exercise bike get it.
 
 1. If you *don't* need to see the therapist go see them so that you'll already have a relationship with someone you trust when you *do* need them. 
 
-1. Don't have zero days. If you're trying to learn an instrument play one chord every day. If you are trying to get healthy do one situp every day. Don't have zero days.
+1. Don't have zero days. If you're trying to learn an instrument, play one chord every day. If you are trying to get healthy do one situp every day. 
 
 1. When you *do* have zero days, commit to having them and don't feel guilty. 
 
@@ -39,7 +39,7 @@ description = "A brief summary of my employment."
 
 1. A good sleep cycle and sleep hygiene is more important to your mental health than almost anything else. 
 
-1. Economic security isn't the most important thing but if you don't have it it gets in the way if those more important things. 
+1. Economic security isn't the most important thing but if you don't have it it gets in the way of those more important things. 
 
 1. Isolation is deadly.
 
