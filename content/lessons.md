@@ -23,7 +23,7 @@ description = "A brief summary of my employment."
 
 1. Don't let perfect be the enemy of the good.
 
-1.With health - don't wait to learn and plan a fitness routine before trying to get healthy. You already know how to walk, run, and skip sodas and desserts. 
+1. With health - don't wait to learn and plan a fitness routine before trying to get healthy. You already know how to walk, run, and skip sodas and desserts. 
 
 1. Similarly with financial health, spend less than you earn, and invest savings in a total market fund from Vanguard or Fidelity, and you're ahead of 75% of folks. 
 
