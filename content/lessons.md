@@ -5,7 +5,7 @@ description = "A brief summary of my employment."
 
 <center><h1>Learnings</h1></center>
 
-<h3>Just a list of stuff I've learned in no particular order</h3>
+<center><h3>Just a list of stuff I've learned in no particular order</h3></center>
 
 1. Stay hydrated.
 
