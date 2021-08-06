@@ -57,9 +57,9 @@ pygmentscodefencesguesssyntax = true
     weight = 4
     url = "/resume/"
 [[menu.main]]
-    name = "Learnings"
+    name = "Lessons"
     weight = 5
-    url = "/learnings/"
+    url = "/lessons/"
  
 [module]
   [[module.imports]]
