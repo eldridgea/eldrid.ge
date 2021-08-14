@@ -7,8 +7,8 @@ description = "A brief summary of my employment."
 
 ## <p style="text-align: center;"> [Download Full Résumé](/files/resume.pdf) </p> ##
 
-### Eldridge Alexander Consulting - *Owner, Information Security Consultant* ###
-Working with business clients to ensure good securtity posture across all organizational systems.
+### Gemini - *Associate Director, Cloud Security* ###
+Leading a team to ensure our cloud infrastructure is secure, providing infrastructure to the security org, and being consultants to the company
 
 ### Kong - *Information Security Manager* ###
 Working to make security simple, accessible, and effective.
