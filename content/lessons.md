@@ -17,7 +17,7 @@ description = "A brief summary of my employment."
 
 1. Stretch and be active everyday, that doesn't mean 90 minutes at the gym necessarily, it does mean taking 10 minutes to get up and walk. 
 
-1. Investing is important in the younger you are the more it's like a superpower. 
+1. Investing is important and the younger you are, the more it's like a superpower. 
 
 1. Financial health is important but the best investments are your relationships, your education, and your health -- both mental and physical. So treat your money accordingly. 
 
@@ -25,7 +25,7 @@ description = "A brief summary of my employment."
 
 1. With health - don't wait to learn and plan a fitness routine before trying to get healthy. You already know how to walk, run, and skip sodas and desserts. 
 
-1. Similarly with financial health, spend less than you earn, and invest savings in a total market fund from Vanguard or Fidelity, and you're ahead of 75% of folks. 
+1. Similarly with financial health, you probably already know the basics. Spend less than you earn, and invest savings in a total market fund from Vanguard or Fidelity, and you're ahead of 75% of folks. 
 
 1. Sometimes investing means spending money. If you need to get that degree get it, if you need to see the doctor go see them, if you need that exercise bike get it.
 
