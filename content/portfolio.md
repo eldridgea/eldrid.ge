@@ -57,7 +57,7 @@ A dramatic voiceover reading of the short story “Four. Evv. Arr.”
 A website designed for the the North Boulevard Youth Group, with a focus
 on simplicity and ease of editing for future administrators.
 
-### [City of Children Lipdub](https://www.youtube.com/watch?v=DMLwFUVpZT0) ###
+### [City of Children Lipdub](https://www.youtube.com/watch?v=5KqiuxY-XhI) ###
 A music video recorded in one take covering the City of Children
 children’s home in Ensenada, Mexico.
 
