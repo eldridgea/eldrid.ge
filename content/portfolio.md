@@ -53,7 +53,7 @@ A site designed for the the TLJ Consulting Group, with an ecommerce component an
 ### [Four. Evv. Arr.](https://soundcloud.com/eldridgea/four-evv-arr) ###
 A dramatic voiceover reading of the short story “Four. Evv. Arr.”
 
-### [nbyg site](http://www.nbyg.org/) ###
+### [nbyg site](https://web.archive.org/web/20210416211202/http://www.nbyg.org/) ###
 A website designed for the the North Boulevard Youth Group, with a focus
 on simplicity and ease of editing for future administrators.
 
