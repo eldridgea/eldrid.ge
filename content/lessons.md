@@ -45,4 +45,4 @@ description = "A brief summary of my employment."
 
 1. Realize that anyone giving you advice is probably trying their best, but more than anything just trying to sound smart. So take it with a grain of salt
 
-1. Always have a library card for your local library. Use it. 
+1. Always have a library card for your local library. Use it. And remember that most of them do *way* more than loan books.
