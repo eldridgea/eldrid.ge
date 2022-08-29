@@ -45,22 +45,14 @@ pygmentscodefencesguesssyntax = true
 
 # Menu links
 [[menu.main]]
+    name = "Consulting"
+    weight = 100
+    url = "/consulting/"
+[[menu.main]]
     name = "Blog"
-    weight = 2
+    weight = 200
     url  = "https://blog.eldrid.ge"
 [[menu.main]]
     name = "Portfolio"
-    weight = 3
+    weight = 300
     url  = "/portfolio"
-[[menu.main]]
-    name = "Résumé"
-    weight = 4
-    url = "/resume/"
-[[menu.main]]
-    name = "Lessons"
-    weight = 5
-    url = "/lessons/"
- 
-[module]
-  [[module.imports]]
-    path = "github.com/luizdepra/hugo-coder"
