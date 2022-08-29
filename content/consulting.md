@@ -10,5 +10,5 @@ Set up a free consultation call if you'd like to discuss how I could specificall
 {{< calendly-buttons >}}
 
 ## Or Get An Email Response ##
-If you prefer email communication, please fill ou this form and I'll be in touch within 1-2 business days.
+If you prefer email communication, please fill out this form and I'll be in touch within 1-2 business days.
 {{< contactform >}}
