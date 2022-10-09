@@ -42,6 +42,11 @@ pygmentscodefencesguesssyntax = true
     icon = "fab fa-twitter fa-2x"
     weight = 3
     url = "https://twitter.com/magiceldridge/"
+[[params.social]]
+    name = "YouTube"
+    icon = "fab fa-youtube fa-2x"
+    weight = 4
+    url = "https://www.youtube.com/channel/UCcGHxtDSfSmH9SuR-nWb6WA"
 
 # Menu links
 [[menu.main]]
