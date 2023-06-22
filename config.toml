@@ -54,10 +54,6 @@ pygmentscodefencesguesssyntax = true
     weight = 100
     url = "/"
 [[menu.main]]
-    name = "Consulting"
-    weight = 200
-    url = "/consulting/"
-[[menu.main]]
     name = "Blog"
     weight = 300
     url  = "https://blog.eldrid.ge"
