@@ -38,29 +38,34 @@ pygmentscodefencesguesssyntax = true
     weight = 1
     url = "https://github.com/eldridgea/"
 [[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter fa-2x"
-    weight = 3
-    url = "https://twitter.com/magiceldridge/"
-[[params.social]]
     name = "Mastodon"
     icon = "fab fa-mastodon fa-2x"
-    weight = 4
+    weight = 3
     url = "https://infosec.exchange/@eldridge"
+[[params.social]]
+    name = "Bluesky"
+    icon = "fab fa-bluesky fa-2x"
+    weight = 4
+    url = "https://bsky.app/profile/eldridge.bsky.social"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 5
+    url = "https://twitter.com/magiceldridge/"
 [[params.social]]
     name = "YouTube"
     icon = "fab fa-youtube fa-2x"
-    weight = 5
+    weight = 6
     url = "https://www.youtube.com/channel/UCcGHxtDSfSmH9SuR-nWb6WA"
 [[params.social]]
     name = "TikTok"
     icon = "fab fa-tiktok fa-2x"
-    weight = 6
+    weight = 7
     url = "https://www.tiktok.com/@magiceldridge"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin fa-2x"
-    weight = 7
+    weight = 8
     url = "https://www.linkedin.com/in/eldridgea/"
 
 # Menu links
