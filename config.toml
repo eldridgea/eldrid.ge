@@ -43,9 +43,14 @@ pygmentscodefencesguesssyntax = true
     weight = 3
     url = "https://twitter.com/magiceldridge/"
 [[params.social]]
+    name = "Mastodon"
+    icon = "fab fa-mastodon fa-2x"
+    weight = 4
+    url = "https://infosec.exchange/@eldridge"
+[[params.social]]
     name = "YouTube"
     icon = "fab fa-youtube fa-2x"
-    weight = 4
+    weight = 5
     url = "https://www.youtube.com/channel/UCcGHxtDSfSmH9SuR-nWb6WA"
 
 # Menu links
