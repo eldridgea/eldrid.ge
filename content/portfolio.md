@@ -1,6 +1,6 @@
 +++
 draft = false
-description = "A portfolio of ksome of my work."
+description = "A portfolio of some of my work."
 +++
 
 <center><h1>Portfolio</h1></center>

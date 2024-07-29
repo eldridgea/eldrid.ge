@@ -1,6 +1,6 @@
 +++
 draft = false
-description = "A brief summary of my employment."
+description = "Random things I thought were worth recording."
 +++
 
 <center><h1>Learnings</h1></center>
