@@ -16,7 +16,7 @@ pygmentscodefencesguesssyntax = true
     info = "Information Security"
     description = "Eldridge's personal website"
     keywords = "blog,developer,personal,engineer,security,infosec"
-    avatarurl = "img/eldridge_alexander.jpg"
+    avatarurl = "cdn-cgi/image/format=auto/img/eldridge_alexander.jpg"
 
     favicon_32 = "favicon.ico"
     favicon_16 = "/img/favicon-16x16.png"
