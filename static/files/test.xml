@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say voice="woman">Automated twilio call and stuff. Enjoy!</Say>
+    <Play>https://eldrid.ge/files/hades.mp3</Play>
+</Response>
