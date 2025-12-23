@@ -14,10 +14,10 @@ A talk for [Black Hat](https://blackhat.com/) USA 2020 covering the improvements
 ### [Malicious Devices on Hostile Networks at Home](https://blog.eldrid.ge/2019/05/04/thotcon-malicious-devices/) ###
 A talk for [THOTCON](https://www.thotcon.org/) covering the increased risk with IoT and 5G and how Zero Trust principles can combat this.
 
-### [Usability Is Security: Part 2](https://duo.com/blog/usability-is-security-the-future) ###
+### [Usability Is Security: Part 2](https://web.archive.org/web/20220527153630/https://duo.com/blog/usability-is-security-the-future) ###
 A Duo blog post looking at the future of authentication and authorization.
 
-### [Usability Is Security: Part 1](https://duo.com/blog/part-1-usability-is-security) ###
+### [Usability Is Security: Part 1](https://web.archive.org/web/20220823105746/https://duo.com/blog/part-1-usability-is-security) ###
 A Duo blog post - a retrospective on authentication, authorization and human psychology in cybersecurity.
 
 ### [Ignite Talk: Universities In Society](https://www.youtube.com/watch?v=fceGFd0sr2w) ###
