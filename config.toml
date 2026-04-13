@@ -12,6 +12,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 [params]
+    colorScheme = "auto"
     author = "Eldridge Alexander"
     info = "Information Security"
     description = "Eldridge's personal website"
